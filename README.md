@@ -1,2 +1,10 @@
-# Prediction-anomaly-project
-A project for evaluating AI model predictions and detecting anomalies using Python
+# AI Model Evaluation & Anomaly Detection
+
+This project simulates predicted vs actual outputs from a binary classifier, evaluates model performance using standard metrics, and visualizes anomalies in predictions.
+
+🛠 Tools used:
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- scikit-learn
+
